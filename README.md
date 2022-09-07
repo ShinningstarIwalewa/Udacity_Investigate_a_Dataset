@@ -10,7 +10,7 @@ The dataset used for the analysis contains 110,527 medical appointment in Brazil
 - There 110,527 rows and 14 columns in this dataset
 -The dataset has some data qulaity issues such as indescriptive column names, invalid age entry, mismatch records in No_show column, incorrect data types.
 
-## Data Cleaning steps":
+## Data Cleaning steps:
 - All indescriptive column names were replaced with descriptive column names.
 - All incorrect data types were converted to the correct datatypes.
 - The mismatch records in the No-show column was rectified.
